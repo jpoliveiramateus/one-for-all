@@ -11,7 +11,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
   CREATE TABLE SpotifyClone.tabela2(
       coluna1 tipo restricoes,
       coluna2 tipo restricoes,
-      colunaN tipo restricoes,
+      colunaN tipo restricoes
   ) engine = InnoDB;
 
   INSERT INTO SpotifyClone.tabela1 (coluna1, coluna2)
