@@ -12,7 +12,7 @@ cd one-for-all
 ```
 Foi recebida uma tabela não normalizada que foi normalizada e populada, nos desafios foi executado queries com o intuito de encontrar as informações solicitadas.
 
-## Tabela recebida
+## 🗒 Tabela recebida
 
 ![non-normalized-tables](https://user-images.githubusercontent.com/99822908/185382800-e9ab48d6-1c79-4bad-b642-7f0a0ddab1e8.png)
 
