@@ -26,4 +26,4 @@ Foi recebida uma tabela não normalizada que foi normalizada e populada, nos des
 * Docker - Usado para a execução do MySQL e Testes;
 
 ---
-⌨️ desenvolvido por [João Pedro Oliveira](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-oliveira-mateus/) 😄
+⌨️ desenvolvido por [João Pedro Oliveira](https://www.linkedin.com/in/jpoliveira7/) 😄
